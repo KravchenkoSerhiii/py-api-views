@@ -9,7 +9,7 @@ from cinema.serializers import (
     MovieSerializer,
     ActorSerializer,
     GenreSerializer,
-    CinemaHallSerializer
+    CinemaHallSerializer,
 )
 
 
